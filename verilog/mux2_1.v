@@ -8,11 +8,12 @@ module mux2_1 (
 assign out = (select)?one:zero;
     
 endmodule
+
 //|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|//
 //|                                               |//
 //| 1. Project  :  git_login                      |//
-//| 2. Author   :  Etay Sela                      |//
+//| 2. Author   :  oz                             |//
 //| 3. Date     :  2024-12-21                     |//
-//| 4. Version  :  v0.1.0                         |//
+//| 4. Version  :  v0.2.0                         |//
 //|                                               |//
 //|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|//
